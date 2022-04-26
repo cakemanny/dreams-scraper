@@ -6,29 +6,29 @@
 
 [UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 14100
 
+[Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3): 13700
+
 [ "Full Moon Kino" Magical Cinema ](https://kiezburn.dreams.wtf/kiez-burn-2022/62502e40bff459002d49db0d): 13400
 
-[Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3): 13300
+[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 11500
 
 [Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647): 11200
 
-[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 11100
-
 [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 11000
 
-[Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115): 10201
+[Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115): 10301
+
+[Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c): 10300
 
 [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c): 10000
 
 [Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c): 9900
 
-[Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c): 9900
-
 [The Temple of Transmutation](https://kiezburn.dreams.wtf/kiez-burn-2022/62499a8dbff459002d46e87a): 9500
 
 [Kiez Psychedelic Sweatlodge ](https://kiezburn.dreams.wtf/kiez-burn-2022/6252c733bff459002d4d4e0a): 9300
 
-[STARFUCKS Coffee](https://kiezburn.dreams.wtf/kiez-burn-2022/62525edebff459002d4c88e4): 9000
+[STARFUCKS Coffee](https://kiezburn.dreams.wtf/kiez-burn-2022/62525edebff459002d4c88e4): 9200
 
 [Radical Self-Reliant Disco](https://kiezburn.dreams.wtf/kiez-burn-2022/624c0e65bff459002d47ad27): 8800
 
@@ -42,9 +42,9 @@
 
 [Ginormous Twister](https://kiezburn.dreams.wtf/kiez-burn-2022/6251dd67bff459002d4c2197): 8160
 
-[A giant slippery water slide coming out of juicy lips](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 7900
+[A giant slippery water slide coming out of juicy lips](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 8100
 
-[Kiezkita](https://kiezburn.dreams.wtf/kiez-burn-2022/625352d6bff459002d516cab): 7800
+[Kiezkita](https://kiezburn.dreams.wtf/kiez-burn-2022/625352d6bff459002d516cab): 8000
 
 [The Promethean Dome](https://kiezburn.dreams.wtf/kiez-burn-2022/6250072fbff459002d49b341): 7700
 
@@ -52,17 +52,17 @@
 
 [Intimacy Kiez Play/workshop Space](https://kiezburn.dreams.wtf/kiez-burn-2022/62507577bff459002d4a4266): 7000
 
-[🎹🎹🎹 Ją♭♭ᶏ's Jaɀɀ ♭ᶏr 🎹🎹🎹](https://kiezburn.dreams.wtf/kiez-burn-2022/625e8179bff459002d5eee75): 6700
+[🎹🎹🎹 Ją♭♭ᶏ's Jaɀɀ ♭ᶏr 🎹🎹🎹](https://kiezburn.dreams.wtf/kiez-burn-2022/625e8179bff459002d5eee75): 6900
+
+[Tubular Bells Instalation](https://kiezburn.dreams.wtf/kiez-burn-2022/624db933bff459002d4824be): 6800
 
 [yalla yalla Swing](https://kiezburn.dreams.wtf/kiez-burn-2022/6252f5d9bff459002d4e38f1): 6700
-
-[Tubular Bells Instalation](https://kiezburn.dreams.wtf/kiez-burn-2022/624db933bff459002d4824be): 6600
 
 [Burn Olympics](https://kiezburn.dreams.wtf/kiez-burn-2022/62389918bff459002d43f4a2): 6400
 
 [Kinetic Sun](https://kiezburn.dreams.wtf/kiez-burn-2022/6252cb83bff459002d4d6b15): 6400
 
-[Sub Retreat](https://kiezburn.dreams.wtf/kiez-burn-2022/62533d5abff459002d500916): 6000
+[Sub Retreat](https://kiezburn.dreams.wtf/kiez-burn-2022/62533d5abff459002d500916): 6200
 
 [Mr Meeseeks for you!](https://kiezburn.dreams.wtf/kiez-burn-2022/62589728bff459002d590988): 6000
 
@@ -78,7 +78,7 @@
 
 [The Trippy Bike](https://kiezburn.dreams.wtf/kiez-burn-2022/622b5c82d875f9002daf63c2): 5000
 
-[Bamboo dome](https://kiezburn.dreams.wtf/kiez-burn-2022/62442c02bff459002d461275): 4600
+[Bamboo dome](https://kiezburn.dreams.wtf/kiez-burn-2022/62442c02bff459002d461275): 4800
 
 [Dreamcatcher](https://kiezburn.dreams.wtf/kiez-burn-2022/62532a41bff459002d4f5d2d): 4500
 
