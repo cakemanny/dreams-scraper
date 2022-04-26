@@ -40,9 +40,9 @@
 
 [Ginormous Twister](https://kiezburn.dreams.wtf/kiez-burn-2022/6251dd67bff459002d4c2197): 7760
 
-[A giant slippery water slide coming out of juicy lips](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 7500
+[The Promethean Dome](https://kiezburn.dreams.wtf/kiez-burn-2022/6250072fbff459002d49b341): 7700
 
-[The Promethean Dome](https://kiezburn.dreams.wtf/kiez-burn-2022/6250072fbff459002d49b341): 7500
+[A giant slippery water slide coming out of juicy lips](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 7500
 
 [Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 7400
 
