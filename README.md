@@ -1,10 +1,10 @@
-[Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801): 21000
+[Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801): 21200
 
 [The Observatory's Planetarium](https://kiezburn.dreams.wtf/kiez-burn-2022/6251457dbff459002d4add81): 15900
 
-[🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 14600
+[🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 14800
 
-[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 14100
+[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 14300
 
 [Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3): 13700
 
@@ -38,11 +38,11 @@
 
 [Silent-Disco: more music, less noise!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3aaabff459002d4950e4): 8600
 
+[Juicy kiss N' slide ](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 8300
+
 [Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 8300
 
 [Ginormous Twister](https://kiezburn.dreams.wtf/kiez-burn-2022/6251dd67bff459002d4c2197): 8160
-
-[A giant slippery water slide coming out of juicy lips](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 8100
 
 [Kiezkita](https://kiezburn.dreams.wtf/kiez-burn-2022/625352d6bff459002d516cab): 8000
 
