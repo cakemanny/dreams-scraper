@@ -90,3 +90,8 @@ def render(data):
     for dream in data:
         buffer.write(dream_line(dream))
     return buffer.getvalue()
+
+
+if __name__ == '__main__':
+    with open('README.md', 'w') as f:
+        f.write(render(transform(get_data())))

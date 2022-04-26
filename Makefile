@@ -16,3 +16,11 @@ lint: venv
 .PHONY: clean
 clean:
 	@echo "you haven't written this step"
+
+run: venv
+	venv/bin/python scraper.py
+
+push:
+	git add README.md
+	git commit -m "Live for Dreams" --author="Dream Bot <4025945+cakemanny@users.noreply.github.com>"
+	git push
