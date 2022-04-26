@@ -4,17 +4,17 @@
 
 [🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 14200
 
-[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 13500
+[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 13700
 
 [ "Full Moon Kino" Magical Cinema ](https://kiezburn.dreams.wtf/kiez-burn-2022/62502e40bff459002d49db0d): 13200
 
 [Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3): 12900
 
+[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 10900
+
 [Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647): 10800
 
 [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 10600
-
-[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 10500
 
 [Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115): 10000
 
@@ -36,6 +36,8 @@
 
 [Crush and Create!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f063abff459002d48ca8c): 8200
 
+[Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 8100
+
 [Silent-Disco: more music, less noise!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3aaabff459002d4950e4): 8000
 
 [Ginormous Twister](https://kiezburn.dreams.wtf/kiez-burn-2022/6251dd67bff459002d4c2197): 7760
@@ -43,8 +45,6 @@
 [A giant slippery water slide coming out of juicy lips](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 7700
 
 [The Promethean Dome](https://kiezburn.dreams.wtf/kiez-burn-2022/6250072fbff459002d49b341): 7700
-
-[Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 7500
 
 [Kiezkita](https://kiezburn.dreams.wtf/kiez-burn-2022/625352d6bff459002d516cab): 7200
 
