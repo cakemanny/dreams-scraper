@@ -14,7 +14,7 @@
 
 [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 10600
 
-[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 10100
+[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 10500
 
 [Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115): 10000
 
@@ -54,11 +54,11 @@
 
 [🎹🎹🎹 Ją♭♭ᶏ's Jaɀɀ ♭ᶏr 🎹🎹🎹](https://kiezburn.dreams.wtf/kiez-burn-2022/625e8179bff459002d5eee75): 6600
 
+[Intimacy Kiez Play/workshop Space](https://kiezburn.dreams.wtf/kiez-burn-2022/62507577bff459002d4a4266): 6600
+
 [yalla yalla Swing](https://kiezburn.dreams.wtf/kiez-burn-2022/6252f5d9bff459002d4e38f1): 6500
 
 [Kinetic Sun](https://kiezburn.dreams.wtf/kiez-burn-2022/6252cb83bff459002d4d6b15): 6400
-
-[Intimacy Kiez Play/workshop Space](https://kiezburn.dreams.wtf/kiez-burn-2022/62507577bff459002d4a4266): 6400
 
 [Burn Olympics](https://kiezburn.dreams.wtf/kiez-burn-2022/62389918bff459002d43f4a2): 6000
 
