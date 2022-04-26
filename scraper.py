@@ -89,6 +89,7 @@ def render(data):
     buffer = io.StringIO()
     for dream in data:
         buffer.write(dream_line(dream))
+        buffer.write('\n')
     return buffer.getvalue()
 
 

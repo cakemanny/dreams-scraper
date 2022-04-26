@@ -47,6 +47,8 @@ def test_render():
     assert rendered == textwrap.dedent(
         """\
         [Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801): 18900
+
         [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 10400
+
         """
     )
