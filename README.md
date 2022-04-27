@@ -86,7 +86,7 @@
 
 [Eggify (Effigy)](https://kiezburn.dreams.wtf/kiez-burn-2022/62528776bff459002d4ca260): 4300
 
-[The Dankmal](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a27abff459002d4cf141): 4000
+[The Dankmal](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a27abff459002d4cf141): 4200
 
 [Yearbook: Kieze of 22](https://kiezburn.dreams.wtf/kiez-burn-2022/625342a3bff459002d507320): 3600
 
