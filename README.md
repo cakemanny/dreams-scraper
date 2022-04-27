@@ -4,13 +4,13 @@
 
 [🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 14800
 
-[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 14300
+[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 14700
 
 [Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3): 13800
 
 [ "Full Moon Kino" Magical Cinema ](https://kiezburn.dreams.wtf/kiez-burn-2022/62502e40bff459002d49db0d): 13400
 
-[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 11500
+[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 11800
 
 [Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647): 11200
 
@@ -22,7 +22,7 @@
 
 [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c): 10000
 
-[Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c): 9900
+[Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c): 10000
 
 [The Temple of Transmutation](https://kiezburn.dreams.wtf/kiez-burn-2022/62499a8dbff459002d46e87a): 9500
 
@@ -38,9 +38,9 @@
 
 [Silent-Disco: more music, less noise!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3aaabff459002d4950e4): 8600
 
-[Juicy kiss N' slide ](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 8300
+[Juicy kiss N' slide ](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 8500
 
-[Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 8300
+[Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 8500
 
 [Ginormous Twister](https://kiezburn.dreams.wtf/kiez-burn-2022/6251dd67bff459002d4c2197): 8160
 
@@ -56,7 +56,7 @@
 
 [Tubular Bells Instalation](https://kiezburn.dreams.wtf/kiez-burn-2022/624db933bff459002d4824be): 6800
 
-[yalla yalla Swing](https://kiezburn.dreams.wtf/kiez-burn-2022/6252f5d9bff459002d4e38f1): 6700
+[yalla yalla Swing](https://kiezburn.dreams.wtf/kiez-burn-2022/6252f5d9bff459002d4e38f1): 6800
 
 [Burn Olympics](https://kiezburn.dreams.wtf/kiez-burn-2022/62389918bff459002d43f4a2): 6400
 
