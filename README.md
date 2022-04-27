@@ -1,34 +1,34 @@
-[Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801): 23200
+[Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801): 23500
 
-[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 18200
+[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 18300
 
-[🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 17700
+[🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 17900
 
-[The Observatory's Planetarium](https://kiezburn.dreams.wtf/kiez-burn-2022/6251457dbff459002d4add81): 17700
+[The Observatory's Planetarium](https://kiezburn.dreams.wtf/kiez-burn-2022/6251457dbff459002d4add81): 17800
 
-[Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3): 15800
+[Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3): 15900
 
-[ "Full Moon Kino" Magical Cinema ](https://kiezburn.dreams.wtf/kiez-burn-2022/62502e40bff459002d49db0d): 15500
+[ "Full Moon Kino" Magical Cinema ](https://kiezburn.dreams.wtf/kiez-burn-2022/62502e40bff459002d49db0d): 15600
 
-[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 13600
+[Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3): 13800
 
-[Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647): 12700
+[Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647): 12800
 
-[Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 12400
+[Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 12500
 
-[Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c): 12100
+[Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c): 12300
 
-[The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c): 11300
+[The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c): 11400
 
-[Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115): 11101
+[Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115): 11201
 
 [Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c): 11100
 
 [Radical Self-Reliant Disco](https://kiezburn.dreams.wtf/kiez-burn-2022/624c0e65bff459002d47ad27): 11000
 
-[STARFUCKS Coffee](https://kiezburn.dreams.wtf/kiez-burn-2022/62525edebff459002d4c88e4): 10800
+[STARFUCKS Coffee](https://kiezburn.dreams.wtf/kiez-burn-2022/62525edebff459002d4c88e4): 10900
 
-[Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 10600
+[Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 10800
 
 [Kiez Psychedelic Sweatlodge ](https://kiezburn.dreams.wtf/kiez-burn-2022/6252c733bff459002d4d4e0a): 10400
 
@@ -38,7 +38,7 @@
 
 [Sloppy kiss N' slide ](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f): 10100
 
-[Crush and Create!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f063abff459002d48ca8c): 9900
+[Crush and Create!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f063abff459002d48ca8c): 10000
 
 [Visualizing Mindfullness](https://kiezburn.dreams.wtf/kiez-burn-2022/625303cabff459002d4e980e): 9900
 
@@ -48,17 +48,17 @@
 
 [The Promethean Dome](https://kiezburn.dreams.wtf/kiez-burn-2022/6250072fbff459002d49b341): 8700
 
-[yalla yalla Swing](https://kiezburn.dreams.wtf/kiez-burn-2022/6252f5d9bff459002d4e38f1): 8200
+[🎹🎹🎹 Ją♭♭ᶏ's Jaɀɀ ♭ᶏr 🎹🎹🎹](https://kiezburn.dreams.wtf/kiez-burn-2022/625e8179bff459002d5eee75): 8500
+
+[yalla yalla Swing](https://kiezburn.dreams.wtf/kiez-burn-2022/6252f5d9bff459002d4e38f1): 8400
 
 [Intimacy Kiez Play/workshop Space](https://kiezburn.dreams.wtf/kiez-burn-2022/62507577bff459002d4a4266): 8200
 
-[🎹🎹🎹 Ją♭♭ᶏ's Jaɀɀ ♭ᶏr 🎹🎹🎹](https://kiezburn.dreams.wtf/kiez-burn-2022/625e8179bff459002d5eee75): 8100
+[The mutant obstacle maze](https://kiezburn.dreams.wtf/kiez-burn-2022/623c3e06bff459002d44bed2): 8100
 
 [Kinetic Sun](https://kiezburn.dreams.wtf/kiez-burn-2022/6252cb83bff459002d4d6b15): 8000
 
-[Tubular Bells Instalation](https://kiezburn.dreams.wtf/kiez-burn-2022/624db933bff459002d4824be): 7900
-
-[The mutant obstacle maze](https://kiezburn.dreams.wtf/kiez-burn-2022/623c3e06bff459002d44bed2): 7900
+[Tubular Bells Instalation](https://kiezburn.dreams.wtf/kiez-burn-2022/624db933bff459002d4824be): 8000
 
 [Sub Retreat](https://kiezburn.dreams.wtf/kiez-burn-2022/62533d5abff459002d500916): 7800
 
@@ -82,15 +82,15 @@
 
 [Tesseract](https://kiezburn.dreams.wtf/kiez-burn-2022/624ca260bff459002d47e5c8): 5500
 
-[Dreamcatcher](https://kiezburn.dreams.wtf/kiez-burn-2022/62532a41bff459002d4f5d2d): 5100
+[The Dankmal](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a27abff459002d4cf141): 5300
 
-[The Dankmal](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a27abff459002d4cf141): 5100
+[Dreamcatcher](https://kiezburn.dreams.wtf/kiez-burn-2022/62532a41bff459002d4f5d2d): 5200
 
-[Eggify (Effigy)](https://kiezburn.dreams.wtf/kiez-burn-2022/62528776bff459002d4ca260): 4800
+[Eggify (Effigy)](https://kiezburn.dreams.wtf/kiez-burn-2022/62528776bff459002d4ca260): 5000
 
 [White Flower Red - Totem and Taboo](https://kiezburn.dreams.wtf/kiez-burn-2022/624ee124bff459002d48a1c1): 4100
 
-[Yearbook: Kieze of 22](https://kiezburn.dreams.wtf/kiez-burn-2022/625342a3bff459002d507320): 3900
+[Yearbook: Kieze of 22](https://kiezburn.dreams.wtf/kiez-burn-2022/625342a3bff459002d507320): 4000
 
 [Paint a Hippie-Van](https://kiezburn.dreams.wtf/kiez-burn-2022/624e8e65bff459002d485e8a): 3800
 
