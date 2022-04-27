@@ -1,6 +1,6 @@
 [Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801): 23200
 
-[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 18000
+[UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 18200
 
 [🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 17700
 
@@ -16,7 +16,7 @@
 
 [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 12400
 
-[Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c): 11900
+[Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c): 12100
 
 [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c): 11300
 
@@ -54,13 +54,13 @@
 
 [🎹🎹🎹 Ją♭♭ᶏ's Jaɀɀ ♭ᶏr 🎹🎹🎹](https://kiezburn.dreams.wtf/kiez-burn-2022/625e8179bff459002d5eee75): 8100
 
-[Kinetic Sun](https://kiezburn.dreams.wtf/kiez-burn-2022/6252cb83bff459002d4d6b15): 7900
+[Kinetic Sun](https://kiezburn.dreams.wtf/kiez-burn-2022/6252cb83bff459002d4d6b15): 8000
 
 [Tubular Bells Instalation](https://kiezburn.dreams.wtf/kiez-burn-2022/624db933bff459002d4824be): 7900
 
 [The mutant obstacle maze](https://kiezburn.dreams.wtf/kiez-burn-2022/623c3e06bff459002d44bed2): 7900
 
-[Sub Retreat](https://kiezburn.dreams.wtf/kiez-burn-2022/62533d5abff459002d500916): 7600
+[Sub Retreat](https://kiezburn.dreams.wtf/kiez-burn-2022/62533d5abff459002d500916): 7800
 
 [Burn Olympics](https://kiezburn.dreams.wtf/kiez-burn-2022/62389918bff459002d43f4a2): 7400
 
@@ -92,7 +92,7 @@
 
 [Yearbook: Kieze of 22](https://kiezburn.dreams.wtf/kiez-burn-2022/625342a3bff459002d507320): 3900
 
-[Paint a Hippie-Van](https://kiezburn.dreams.wtf/kiez-burn-2022/624e8e65bff459002d485e8a): 3600
+[Paint a Hippie-Van](https://kiezburn.dreams.wtf/kiez-burn-2022/624e8e65bff459002d485e8a): 3800
 
 [Intro to Hawaiian Lei Making and Hula Dancing](https://kiezburn.dreams.wtf/kiez-burn-2022/62533e56bff459002d5028f4): 1700
 
