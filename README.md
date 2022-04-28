@@ -1,29 +1,29 @@
 | Dream | Total Contributions | Required Funds |
 | ----- | ------------------- | -------------- |
-| [Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801) | 269.0 | 577.0 |
+| [Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801) | 271.0 | 577.0 |
 | [UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e) | 220.0 | 1500.0 |
 | [🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279) | 217.0 | 880.0 |
-| [The Observatory's Planetarium](https://kiezburn.dreams.wtf/kiez-burn-2022/6251457dbff459002d4add81) | 199.0 | 1480.0 |
-| [Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3) | 184.0 | 704.0 |
+| [The Observatory's Planetarium](https://kiezburn.dreams.wtf/kiez-burn-2022/6251457dbff459002d4add81) | 201.0 | 1480.0 |
+| [Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3) | 186.0 | 704.0 |
 | [ "Full Moon Kino" Magical Cinema ](https://kiezburn.dreams.wtf/kiez-burn-2022/62502e40bff459002d49db0d) | 174.0 | 615.0 |
 | [Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3) | 158.0 | 500.0 |
 | [Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647) | 157.0 | 250.0 |
-| [Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c) | 146.0 | 1022.0 |
-| [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8) | 144.0 | 1200.0 |
+| [Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c) | 150.0 | 1022.0 |
+| [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8) | 145.0 | 1200.0 |
 | [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c) | 139.0 | 700.0 |
 | [Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c) | 132.0 | 420.0 |
 | [Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2) | 130.0 | 710.0 |
-| [Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115) | 128.01 | 1680.0 |
-| [Radical Self-Reliant Disco](https://kiezburn.dreams.wtf/kiez-burn-2022/624c0e65bff459002d47ad27) | 124.0 | 98.0 |
+| [Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115) | 129.01 | 1680.0 |
+| [Radical Self-Reliant Disco](https://kiezburn.dreams.wtf/kiez-burn-2022/624c0e65bff459002d47ad27) | 125.0 | 98.0 |
+| [Kiez Psychedelic Sweatlodge ](https://kiezburn.dreams.wtf/kiez-burn-2022/6252c733bff459002d4d4e0a) | 123.0 | 400.0 |
 | [STARFUCKS Coffee](https://kiezburn.dreams.wtf/kiez-burn-2022/62525edebff459002d4c88e4) | 122.0 | 0.0 |
 | [Crush and Create!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f063abff459002d48ca8c) | 121.0 | 228.0 |
-| [Kiez Psychedelic Sweatlodge ](https://kiezburn.dreams.wtf/kiez-burn-2022/6252c733bff459002d4d4e0a) | 121.0 | 400.0 |
 | [The Temple of Transmutation](https://kiezburn.dreams.wtf/kiez-burn-2022/62499a8dbff459002d46e87a) | 120.0 | 1583.0 |
 | [Silent-Disco: more music, less noise!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3aaabff459002d4950e4) | 120.0 | 570.0 |
-| [Ginormous Twister](https://kiezburn.dreams.wtf/kiez-burn-2022/6251dd67bff459002d4c2197) | 116.6 | 140.0 |
+| [Ginormous Twister](https://kiezburn.dreams.wtf/kiez-burn-2022/6251dd67bff459002d4c2197) | 118.6 | 140.0 |
 | [Sloppy kiss N' slide ](https://kiezburn.dreams.wtf/kiez-burn-2022/62534fedbff459002d51406f) | 116.0 | 320.0 |
 | [Visualizing Mindfullness](https://kiezburn.dreams.wtf/kiez-burn-2022/625303cabff459002d4e980e) | 114.0 | 200.0 |
-| [Sub Retreat](https://kiezburn.dreams.wtf/kiez-burn-2022/62533d5abff459002d500916) | 108.0 | 630.0 |
+| [Sub Retreat](https://kiezburn.dreams.wtf/kiez-burn-2022/62533d5abff459002d500916) | 110.0 | 630.0 |
 | [The Promethean Dome](https://kiezburn.dreams.wtf/kiez-burn-2022/6250072fbff459002d49b341) | 105.0 | 580.0 |
 | [Intimacy Kiez Play/workshop Space](https://kiezburn.dreams.wtf/kiez-burn-2022/62507577bff459002d4a4266) | 105.0 | 828.0 |
 | [Kinetic Sun](https://kiezburn.dreams.wtf/kiez-burn-2022/6252cb83bff459002d4d6b15) | 104.0 | 500.0 |
