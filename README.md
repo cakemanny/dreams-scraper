@@ -9,7 +9,7 @@
 | [Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3) | 152.0 | 500.0 |
 | [Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647) | 149.0 | 250.0 |
 | [Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c) | 140.0 | 1022.0 |
-| [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8) | 138.0 | 1200.0 |
+| [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8) | 140.0 | 1200.0 |
 | [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c) | 134.0 | 700.0 |
 | [Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c) | 126.0 | 420.0 |
 | [Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115) | 124.01 | 1680.0 |
@@ -40,7 +40,7 @@
 | [Wall of Ethereal Images](https://kiezburn.dreams.wtf/kiez-burn-2022/624f316fbff459002d494699) | 68.0 | 800.0 |
 | [The Glade of The Fates](https://kiezburn.dreams.wtf/kiez-burn-2022/62514be0bff459002d4aff19) | 66.0 | 483.0 |
 | [Bamboo dome](https://kiezburn.dreams.wtf/kiez-burn-2022/62442c02bff459002d461275) | 65.0 | 500.0 |
-| [Tesseract](https://kiezburn.dreams.wtf/kiez-burn-2022/624ca260bff459002d47e5c8) | 62.0 | 480.0 |
+| [Tesseract](https://kiezburn.dreams.wtf/kiez-burn-2022/624ca260bff459002d47e5c8) | 64.0 | 480.0 |
 | [The Trippy Bike](https://kiezburn.dreams.wtf/kiez-burn-2022/622b5c82d875f9002daf63c2) | 59.0 | 30.0 |
 | [Eggify (Effigy)](https://kiezburn.dreams.wtf/kiez-burn-2022/62528776bff459002d4ca260) | 58.0 | -3000.0 |
 | [The Dankmal](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a27abff459002d4cf141) | 57.0 | 210.0 |
