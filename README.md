@@ -2,7 +2,7 @@
 
 [UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 21200
 
-[🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 20400
+[🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279): 20600
 
 [The Observatory's Planetarium](https://kiezburn.dreams.wtf/kiez-burn-2022/6251457dbff459002d4add81): 19200
 
@@ -14,9 +14,9 @@
 
 [Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647): 14900
 
-[Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c): 13800
+[Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c): 14000
 
-[Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 13800
+[Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8): 14000
 
 [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c): 13400
 
@@ -78,7 +78,7 @@
 
 [Bamboo dome](https://kiezburn.dreams.wtf/kiez-burn-2022/62442c02bff459002d461275): 6500
 
-[Tesseract](https://kiezburn.dreams.wtf/kiez-burn-2022/624ca260bff459002d47e5c8): 6200
+[Tesseract](https://kiezburn.dreams.wtf/kiez-burn-2022/624ca260bff459002d47e5c8): 6400
 
 [The Trippy Bike](https://kiezburn.dreams.wtf/kiez-burn-2022/622b5c82d875f9002daf63c2): 5900
 
