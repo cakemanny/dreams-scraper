@@ -1,18 +1,18 @@
 | Dream | Total Contributions | Required Funds |
 | ----- | ------------------- | -------------- |
-| [Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801) | 263.0 | 577.0 |
+| [Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801) | 265.0 | 577.0 |
 | [UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e) | 216.0 | 1500.0 |
-| [🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279) | 212.0 | 880.0 |
+| [🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279) | 214.0 | 880.0 |
 | [The Observatory's Planetarium](https://kiezburn.dreams.wtf/kiez-burn-2022/6251457dbff459002d4add81) | 197.0 | 1480.0 |
-| [Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3) | 182.0 | 704.0 |
+| [Lucy in the Späti with Diamonds](https://kiezburn.dreams.wtf/kiez-burn-2022/62417185bff459002d4579a3) | 184.0 | 704.0 |
 | [ "Full Moon Kino" Magical Cinema ](https://kiezburn.dreams.wtf/kiez-burn-2022/62502e40bff459002d49db0d) | 170.0 | 615.0 |
-| [Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3) | 156.0 | 500.0 |
+| [Crazy Tea Party](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3ec9bff459002d495da3) | 158.0 | 500.0 |
 | [Maxi the Costume Upcycling Mobile](https://kiezburn.dreams.wtf/kiez-burn-2022/625303b9bff459002d4e9647) | 153.0 | 250.0 |
 | [Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c) | 144.0 | 1022.0 |
 | [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8) | 142.0 | 1200.0 |
 | [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c) | 137.0 | 700.0 |
+| [Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2) | 129.0 | 710.0 |
 | [Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c) | 128.0 | 420.0 |
-| [Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2) | 127.0 | 710.0 |
 | [Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115) | 126.01 | 1680.0 |
 | [Radical Self-Reliant Disco](https://kiezburn.dreams.wtf/kiez-burn-2022/624c0e65bff459002d47ad27) | 123.0 | 98.0 |
 | [STARFUCKS Coffee](https://kiezburn.dreams.wtf/kiez-burn-2022/62525edebff459002d4c88e4) | 122.0 | 0.0 |
