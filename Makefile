@@ -22,5 +22,5 @@ run: venv
 
 push:
 	git add README.md
-	git commit -m "Live for Dreams" --author="Dream Bot <4025945+cakemanny@users.noreply.github.com>" || true
+	git commit -m "Live for Dreams" --author="Dream Bot <actions@users.noreply.github.com>" || true
 	git push
