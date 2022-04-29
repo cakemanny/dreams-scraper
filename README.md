@@ -1,6 +1,6 @@
 | Dream | Total Contributions | Required Funds |
 | ----- | ------------------- | -------------- |
-| [Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801) | 290.0 | 577.0 |
+| [Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801) | 290.01 | 577.0 |
 | [UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e) | 241.0 | 1500.0 |
 | [🍑 ℍ𝕒𝕣𝕝𝕠𝕥 ℍ𝕒𝕝𝕝 🍑](https://kiezburn.dreams.wtf/kiez-burn-2022/625062fcbff459002d4a2279) | 228.0 | 880.0 |
 | [The Observatory's Planetarium](https://kiezburn.dreams.wtf/kiez-burn-2022/6251457dbff459002d4add81) | 212.0 | 1480.0 |
@@ -11,8 +11,8 @@
 | [Dance to a different beat - Musotopia is back!](https://kiezburn.dreams.wtf/kiez-burn-2022/6252a290bff459002d4cf22c) | 160.0 | 1022.0 |
 | [Glowdome](https://kiezburn.dreams.wtf/kiez-burn-2022/6253221dbff459002d4f33b8) | 154.0 | 1200.0 |
 | [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c) | 149.0 | 700.0 |
+| [Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c) | 141.0 | 420.0 |
 | [Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2) | 140.0 | 710.0 |
-| [Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c) | 139.0 | 420.0 |
 | [Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115) | 137.01 | 1680.0 |
 | [Radical Self-Reliant Disco](https://kiezburn.dreams.wtf/kiez-burn-2022/624c0e65bff459002d47ad27) | 131.0 | 98.0 |
 | [Silent-Disco: more music, less noise!](https://kiezburn.dreams.wtf/kiez-burn-2022/624f3aaabff459002d4950e4) | 128.0 | 570.0 |
