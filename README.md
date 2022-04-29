@@ -45,7 +45,7 @@
 | [Eggify (Effigy)](https://kiezburn.dreams.wtf/kiez-burn-2022/62528776bff459002d4ca260) | 65.0 | -3000.0 |
 | [The Trippy Bike](https://kiezburn.dreams.wtf/kiez-burn-2022/622b5c82d875f9002daf63c2) | 64.0 | 30.0 |
 | [Dreamcatcher](https://kiezburn.dreams.wtf/kiez-burn-2022/62532a41bff459002d4f5d2d) | 61.0 | 500.0 |
-| [Yearbook: Kieze of 22](https://kiezburn.dreams.wtf/kiez-burn-2022/625342a3bff459002d507320) | 49.0 | 136.0 |
+| [Yearbook: Kieze of 22](https://kiezburn.dreams.wtf/kiez-burn-2022/625342a3bff459002d507320) | 50.0 | 136.0 |
 | [White Flower Red - Totem and Taboo](https://kiezburn.dreams.wtf/kiez-burn-2022/624ee124bff459002d48a1c1) | 49.0 | 445.0 |
 | [Paint a Hippie-Van](https://kiezburn.dreams.wtf/kiez-burn-2022/624e8e65bff459002d485e8a) | 47.0 | 155.0 |
 | [Intro to Hawaiian Lei Making and Hula Dancing](https://kiezburn.dreams.wtf/kiez-burn-2022/62533e56bff459002d5028f4) | 28.0 | 100.0 |
