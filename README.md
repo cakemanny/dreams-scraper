@@ -1,4 +1,4 @@
-[Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801): 29000
+[Saunacious Dream Spa](https://kiezburn.dreams.wtf/kiez-burn-2022/625156b9bff459002d4b0801): 29001
 
 [UNDERWORLD STAGE](https://kiezburn.dreams.wtf/kiez-burn-2022/624b3b15bff459002d47560e): 24100
 
@@ -20,9 +20,9 @@
 
 [The Promethean Arena](https://kiezburn.dreams.wtf/kiez-burn-2022/62517552bff459002d4b2f4c): 14900
 
-[Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 14000
+[Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c): 14100
 
-[Prost Office!](https://kiezburn.dreams.wtf/kiez-burn-2022/62506c97bff459002d4a291c): 13900
+[Trippy Hippie Tipi Town](https://kiezburn.dreams.wtf/kiez-burn-2022/6250a340bff459002d4a86d2): 14000
 
 [Stars on the Plateau](https://kiezburn.dreams.wtf/kiez-burn-2022/62505020bff459002d4a0115): 13701
 
@@ -88,7 +88,7 @@
 
 [Dreamcatcher](https://kiezburn.dreams.wtf/kiez-burn-2022/62532a41bff459002d4f5d2d): 6100
 
-[Yearbook: Kieze of 22](https://kiezburn.dreams.wtf/kiez-burn-2022/625342a3bff459002d507320): 4900
+[Yearbook: Kieze of 22](https://kiezburn.dreams.wtf/kiez-burn-2022/625342a3bff459002d507320): 5000
 
 [White Flower Red - Totem and Taboo](https://kiezburn.dreams.wtf/kiez-burn-2022/624ee124bff459002d48a1c1): 4900
 
