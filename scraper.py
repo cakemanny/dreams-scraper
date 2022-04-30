@@ -6,20 +6,21 @@ import sys
 
 QUERY = """\
 query Dreams($eventSlug: String!, $textSearchTerm: String, $tag: String, $offset: Int, $limit: Int) {
-dreamsPage(eventSlug: $eventSlug, textSearchTerm: $textSearchTerm, tag: $tag, offset: $offset, limit: $limit) {
-    moreExist
-    dreams(eventSlug: $eventSlug, textSearchTerm: $textSearchTerm, tag: $tag, offset: $offset, limit: $limit) {
-    id
-    title
-    income
-    totalContributions
-    published
-    approved
-    canceled
-    __typename
+    dreamsPage(eventSlug: $eventSlug, textSearchTerm: $textSearchTerm, tag: $tag, offset: $offset, limit: $limit) {
+        moreExist
+        dreams(eventSlug: $eventSlug, textSearchTerm: $textSearchTerm, tag: $tag, offset: $offset, limit: $limit) {
+            id
+            title
+            income
+            totalContributions
+            minGoal
+            published
+            approved
+            canceled
+            __typename
+        }
+        __typename
     }
-    __typename
-}
 }
 """
 
@@ -68,9 +69,19 @@ def transform(data):
     Transform takes the GraphQL response and plays with the numbers
     """
     dreams = data['data']['dreamsPage']['dreams']
-    return sorted(
+    xs = sorted(
         dreams, key=lambda dream: dream['totalContributions'], reverse=True
     )
+
+    # The 3000 is some silly default addition related to the misuse of the
+    # funding platform.
+    return [
+        {
+            **x,
+            "requiredFunding": x['minGoal'] - x["income"] - 300000
+        }
+        for x in xs
+    ]
 
 
 def render(data):
@@ -82,14 +93,18 @@ def render(data):
         _id = dream['id']
         url = f'https://kiezburn.dreams.wtf/kiez-burn-2022/{_id}'
         title = dream.get('title', '')
-        contributions = dream.get('totalContributions', 0)
-        return f'[{title}]({url}): {contributions}\n'
+        contributions = dream.get('totalContributions', 0) / 100
+        required_funds = dream.get('requiredFunding', 0) / 100
+        return f'| [{title}]({url}) | {contributions} | {required_funds} |\n'
 
     import io
     buffer = io.StringIO()
+    header = '| Dream | Total Contributions | Required Funds |\n'
+    buffer.write(header)
+    header = '| ----- | ------------------- | -------------- |\n'
+    buffer.write(header)
     for dream in data:
         buffer.write(dream_line(dream))
-        buffer.write('\n')
     return buffer.getvalue()
 
 
